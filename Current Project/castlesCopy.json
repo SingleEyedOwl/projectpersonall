@@ -1,0 +1,40 @@
+{
+    "castle": [
+        {
+            "id": 1,
+            "castle_name": "Name here",
+            "resources": {
+                "wood": 0,
+                "stone": 0,
+                "ore": 0,
+                "Population": 0,
+                "copper": 0,
+                "silver": 0
+            },
+            "core buildings": [
+                {"type": "Keep", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Arsenal", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Tavern", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Library", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Fortifications", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Market", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Farm", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Lumberjack", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Wood Store", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Quarry", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Stone Store", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Ore Mine", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true},
+                {"type": "Ore Store", "level": 1, "next_upgrade_time": 0, "upgrade_possible": true}
+            ],
+            "resource buildings": [
+                 {"type": "Farm", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Lumberjack", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Wood Store", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Quarry", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Stone Store", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Ore Mine", "level": 1, "upgrade_time": 0, "upgrade_possible": true},
+                 {"type": "Ore Store", "level": 1, "upgrade_time": 0, "upgrade_possible": true}
+            ]
+        }
+    ]
+}
